@@ -1,4 +1,4 @@
- # Dante
+ # BARON
 
 
 
@@ -7,7 +7,7 @@
 
 
 
- # My STACKS :
+ # THE LANGUAGE I SPEAK :
 
  
 [![](https://raw.githubusercontent.com/stephenChinag/BioEdit/master/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
